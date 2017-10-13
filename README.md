@@ -1,4 +1,4 @@
-# C-or-CPP
+# Introduction to programming I and II
 
 NTHUOJ Programming Problems
 
